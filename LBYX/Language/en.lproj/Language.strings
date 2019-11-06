@@ -1,0 +1,50 @@
+/* 
+  Language.strings
+  LBYX
+
+  Created by john on 2019/5/31.
+  Copyright © 2019 qt. All rights reserved.
+*/
+
+"主页" = "Home";
+"语言选择" = "Language";
+"蓝牙" = "Bluetooth";
+"恢复出厂设置" = "Wipe Data/Factory Reset";
+"客户服务" = "Customer service";
+"中文" = "Chinese";
+"英文" = "English";
+"请输入蓝牙名称" = "Please enter Bluetooth name";
+"请输入6-12位的Pin名称" = "Please enter a 6-12 digit Pin name";
+"内部音" = "Volume";
+"外部音" = "Engine  Sound";
+"混响" = "Max  Sound";
+"已连接设备" = "Connected Device";
+"响应" = "Repose";
+"设置蓝牙" = "Set device parameters";
+"名字" = "Name";
+"提示信息" = "Tip";
+"确认要恢复出厂设置吗?" = "Are you sure you want to restore the factory settings?";
+"确认" = "Sure";
+"提交" = "Submission";
+"设置" = "Set";
+"蓝牙未打开" = "Bluetooth Not Opened";
+"指令处理中..." = "Instruction sending...";
+"指令处理成功" = "Instruction Processing Successful";
+"激活音量" = "ACTIVE SOUND GATEWAY";
+"6-12位英文字母或数字" = "6-12 bits of English letters/numbers";
+"指令处理超时" = "Instruction processing timeout";
+
+"提示" = "Prompt";
+"设备已断开,请重新连接" = "The device has been disconnected, please relink";
+"确定" = "Determine";
+"连接成功" = "Successful link";
+"请输入蓝牙名称或PIN" = "Please enter a Bluetooth name or PIN";
+"此功能正在开发中...." = "This feature is under development....";
+"请输入6-12位英文字母或数字" = "Please enter 6-12 English letters or numbers";
+"蓝牙未开启,请先开启蓝牙" = "Bluetooth is not turned on, please turn on Bluetooth first";
+"去开启" = "Go to open";
+"链接设备" = "Connected Device";
+"提示信息" = "Prompt information";
+"您确定要恢复出厂设置吗?" = "Are you sure you wangt to restore the factory settings?";
+"当前声音设置" = "ACTIVE SOUND DESIGN";
+

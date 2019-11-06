@@ -1,0 +1,16 @@
+platform:ios, '8.0'
+#use_frameworks!
+target ‘LBYX’ do 
+    pod 'Masonry', '~> 1.1.0' 
+    pod 'MJRefresh', '~> 3.1.15.1'
+    pod 'MJExtension', '~> 3.0.17'
+    pod 'IQKeyboardManager', '~> 5.0.8'  
+    pod 'PGDatePicker'
+    pod 'TYAlertController' 
+    pod 'MBProgressHUD'
+#    pod 'MLeaksFinder' #内存泄漏检测
+#    pod 'FBRetainCycleDetector' #FaceBook 循环引用检测
+    pod 'DZNEmptyDataSet'
+    pod 'SDWebImage', '~> 4.2.2'
+    pod 'RESideMenu', :git => 'https://github.com/florianbuerger/RESideMenu.git'
+end
